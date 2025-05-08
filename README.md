@@ -1,12 +1,25 @@
-# React + Vite
+To-Do List App 📝
+Bu proje, React kullanılarak geliştirilmiş basit bir yapılacaklar listesi uygulamasıdır.
+Kullanıcılar görev ekleyebilir, silebilir ve düzenleyebilir.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Özellikler
+Görev ekleme ✅
 
-Currently, two official plugins are available:
+Görev silme 🗑️
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Görev güncelleme ✏️
 
-## Expanding the ESLint configuration
+Renkli görevler 🎨
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+LocalStorage desteği (veriler kaybolmaz)
+
+🧪 Kurulum
+Projeyi kendi bilgisayarınızda çalıştırmak için:
+
+bash
+Kopyala
+Düzenle
+git clone https://github.com/kullaniciadi/proje-adi.git
+cd proje-adi
+npm install
+npm start
