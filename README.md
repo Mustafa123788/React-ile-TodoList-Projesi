@@ -1,6 +1,5 @@
 To-Do List App 📝
-Bu proje, React kullanılarak geliştirilmiş basit bir yapılacaklar listesi uygulamasıdır.
-Kullanıcılar görev ekleyebilir, silebilir ve düzenleyebilir.
+Bu proje, React kullanılarak geliştirilmiş basit bir yapılacaklar listesi uygulamasıdır. Kullanıcılar görev ekleyebilir, silebilir ve düzenleyebilir.
 
 🚀 Özellikler
 Görev ekleme ✅
@@ -29,23 +28,19 @@ Project Setup
 To get started with this project, you can clone it to your local machine using the following command:
 
 bash
-Kopyala
-Düzenle
 git clone https://github.com/Mustafa123788/React-ile-TodoList-Projesi.git
 Once cloned, navigate to the project directory and run the following commands:
 
 Install dependencies
 
 bash
-Kopyala
-Düzenle
 npm install
 Run the project
 
 bash
-Kopyala
-Düzenle
 npm run dev
 This will start the Vite development server, and you can view your React app in the browser.
+
+
 
 
