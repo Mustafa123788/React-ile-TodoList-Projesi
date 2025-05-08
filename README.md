@@ -13,13 +13,39 @@ Renkli görevler 🎨
 
 LocalStorage desteği (veriler kaybolmaz)
 
-🧪 Kurulum
-Projeyi kendi bilgisayarınızda çalıştırmak için:
+React + Vite
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+@vitejs/plugin-react uses Babel for Fast Refresh
+
+@vitejs/plugin-react-swc uses SWC for Fast Refresh
+
+Expanding the ESLint configuration
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the TS template for information on how to integrate TypeScript and typescript-eslint in your project.
+
+Project Setup
+To get started with this project, you can clone it to your local machine using the following command:
 
 bash
 Kopyala
 Düzenle
-git clone https://github.com/kullaniciadi/proje-adi.git
-cd proje-adi
+git clone https://github.com/Mustafa123788/React-ile-TodoList-Projesi.git
+Once cloned, navigate to the project directory and run the following commands:
+
+Install dependencies
+
+bash
+Kopyala
+Düzenle
 npm install
-npm start
+Run the project
+
+bash
+Kopyala
+Düzenle
+npm run dev
+This will start the Vite development server, and you can view your React app in the browser.
+
+
