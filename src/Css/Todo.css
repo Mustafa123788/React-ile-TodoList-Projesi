@@ -1,0 +1,19 @@
+.todo-item{
+    list-style: none;
+    background-color: #fff;
+    padding: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.todo-name{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.icon{
+    font-size: 22px;
+    font-weight: bold;
+    cursor: pointer;
+}
